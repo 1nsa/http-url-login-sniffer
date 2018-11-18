@@ -1,4 +1,4 @@
-# http-url-login-sniffer
+# HTTP URL + Login Sniffer
 Sniff http urls and login on specified interface
 
 use it in combination with arp_spoof to sniff target traffic
